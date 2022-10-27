@@ -1,10 +1,9 @@
 The `index.html` file
-- should contain an unordered list with 3 items
-- should contain an ordered list with 3 items
+- should contain 2 radio buttons with labels and one of them selected by default
+- should contain 3 checkboxes with labels and one of them checked by default
+- should contain 1 input with a placeholder and that is marked as required
+- should contain 1 submit button
 
 Resources:
-- https://www.w3schools.com/tags/tag_ul.asp
-- https://www.w3schools.com/tags/tag_ol.asp
-
-Building toward CSTA Standards:
-- Use lists to simplify solutions, generalizing computational problems instead of repeatedly using simple variables (3A-AP-14) https://www.csteachers.org/page/standards
+- https://www.w3schools.com/tags/tag_input.asp
+- https://www.w3schools.com/tags/tag_button.asp
